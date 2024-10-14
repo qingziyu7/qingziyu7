@@ -1,5 +1,7 @@
 ## Hi there 👋
+# About Me
 
+👨‍💻 **I’m a Software Engineering student**, currently enrolled in the WIF3005 Software Maintenance and Evolution course. My focus is on understanding how software systems can be maintained and evolved to remain sustainable, scalable, and adaptable in the long term.
 <!--
 **qingziyu7/qingziyu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
